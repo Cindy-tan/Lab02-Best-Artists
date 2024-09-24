@@ -1,0 +1,23 @@
+.app-container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.group-list {
+    display: flex;
+    gap: 5%;
+    background-color: #ffdfa3 ;
+    border: 5px solid #ffb731;
+}
+
+.artists-image {
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top center;
+    display: block;
+    margin-top: 1%;
+}
